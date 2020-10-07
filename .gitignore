@@ -1,1 +1,3 @@
 /.idea/
+/crm/crm/__pycache__/
+/crm/db.sqlite3
