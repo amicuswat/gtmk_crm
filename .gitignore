@@ -1,3 +1,8 @@
 /.idea/
 /crm/crm/__pycache__/
 /crm/db.sqlite3
+/vue/gtmk_crm/README.md
+/vue/gtmk_crm/babel.config.js
+/vue/gtmk_crm/package-lock.json
+/vue/gtmk_crm/package.json
+/vue/gtmk_crm/public/favicon.ico
