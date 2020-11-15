@@ -35,7 +35,7 @@
 
 <script>
 export default {
-  name: 'NewProject',
+  name: 'NewClient',
 
 }
 </script>

@@ -6,3 +6,5 @@
 /vue/gtmk_crm/package-lock.json
 /vue/gtmk_crm/package.json
 /vue/gtmk_crm/public/favicon.ico
+__init__.py
+__pycache__/
